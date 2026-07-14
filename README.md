@@ -36,7 +36,7 @@ I’m particularly passionate about:
 
 - 🌍 **Beginner-friendly open-source projects**
 - 💻 **C++ / Python-based applications**
-- 🌱 **Tech-for-good initiatives**
+- 🌱 **Building Frontend for websites and explornig backend**
 - 🚀 **Projects focused on skill-building and impact**
 
 -----
@@ -46,6 +46,7 @@ I’m particularly passionate about:
 ### 🚀 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +77,7 @@ I’m particularly passionate about:
 ## 🌱 Currently Learning
 
 - Advanced **C++ & Python**
+- Meaningful Websites**django**
 - Competitive Programming  
 - Git & Open Source Workflows  
 - Core Computer Science Fundamentals  
