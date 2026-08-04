@@ -44,10 +44,12 @@ I’m particularly passionate about:
 ## 💻 Tech Stack
 
 ### 🚀 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
-![html](https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=html&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![css]()
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
