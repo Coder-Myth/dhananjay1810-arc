@@ -47,6 +47,7 @@ I’m particularly passionate about:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+![html](https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=html&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
