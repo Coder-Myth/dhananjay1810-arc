@@ -89,7 +89,7 @@ I’m particularly passionate about:
 
 ## ⭐ Fun Fact
 
-> “The best way to learn is by building and breaking things.”
+> “The best way to learn is by Building and breaking things.”
 
 ----
 
