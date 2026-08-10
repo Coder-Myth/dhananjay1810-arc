@@ -13,7 +13,7 @@
 
 ## I’m **Dhananjay Gurjar** 🚀
 
-🎓 **Computer Science & Engineering(AIML) Undergraduate**  
+🎓 **Computer Science & Engineering (AIML) Undergraduate**  
 🏫 Acropolis Institue of Technology And Research   
 🎓 Rajiv Gandhi Proudyogiki Vishwavidyalaya(RGPV)  
 📅 Expected Graduation : **2029**
