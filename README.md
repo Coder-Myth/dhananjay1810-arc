@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-I’m a motivated **Computer Science Undergraduate** with a strong interest in **Problem-Solving, algorithms, and systems-level development**. I enjoy working on **real-world projects**, contributing to **open-source**, and continuously learning by building.
+I’m a motivated **Computer Science Undergraduate** with a strong interest in **Problem-Solving, Algorithms, and systems-level development**. I enjoy working on **real-world projects**, contributing to **open-source**, and continuously learning by building.
 
 I’m particularly passionate about:
 - Writing clean and efficient code  
